@@ -1,0 +1,5 @@
+{
+  "name": "NEXUS: High-Fidelity Particle Swarm",
+  "description": "A high-performance 3D particle simulation where 1,500+ entities obey complex physics laws controlled by the Gemini API. Features interactive gravity wells, orbital mechanics, and explosive events.",
+  "requestFramePermissions": []
+}
